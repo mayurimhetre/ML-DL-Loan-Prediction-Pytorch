@@ -42,11 +42,11 @@ The main goal of this project is to **build a predictive model** that can determ
 
 4.DL model:
 
- LR- 0.03 , epochs = 30 gives 78 % accuracy 
- LR - 0.03 ,epochs = 100 gives 75% accuracy
- LR - 0.003 ,epochs = 40 gives- 82 % accuracy
- LR - 0.005 ,epochs = 40 gives- 83 % accuracy
- LR- 0.003 , epochs- 40 gives 83.3 % accuracy
+- LR- 0.03 , epochs = 30 gives 78 % accuracy 
+- LR - 0.03 ,epochs = 100 gives 75% accuracy
+- LR - 0.003 ,epochs = 40 gives- 82 % accuracy
+- LR - 0.005 ,epochs = 40 gives- 83 % accuracy
+- LR- 0.003 , epochs- 40 gives 83.3 % accuracy
  
  
  ![image](https://user-images.githubusercontent.com/68188457/123515065-b7701c80-d6b3-11eb-9237-7b8eb776756c.png)
