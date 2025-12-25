@@ -38,18 +38,14 @@ The main goal of this project is to **build a predictive model** that can determ
 
 2.KNN- k = 7 works really well with 82 % accuracy
 
-3.Random Forest Classifier after hyper parameter tuning -  it gives --- 86% accuracy
+3.Random Forest Classifier after hyper parameter tuning: 86% accuracy
 
-4. DL model:
+4.DL model:
 
  LR- 0.03 , epochs = 30 gives 78 % accuracy 
- 
  LR - 0.03 ,epochs = 100 gives 75% accuracy
- 
  LR - 0.003 ,epochs = 40 gives- 82 % accuracy
- 
  LR - 0.005 ,epochs = 40 gives- 83 % accuracy
- 
  LR- 0.003 , epochs- 40 gives 83.3 % accuracy
  
  
